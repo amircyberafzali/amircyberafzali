@@ -9,7 +9,7 @@ My time at Augusta University has given me a robust foundation in Cybersecurity 
 
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis         | <a href="https://github.com/yourusername/home-lab">Cybersecurity Home Lab</a>     |
+| SIEM Implementation and Log Analysis         | <a href="https://github.com/amircyberafzali/Cybersecurity-Home-Lab">Cybersecurity Home Lab</a>     |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/yourusername/home-lab">Cybersecurity Home Lab</a>   |
 | Security Automation with Python              | <a href="https://github.com/yourusername/soc-automation">SOC Automation Project</a>|
 | Incident Response Planning and Execution     | <a href="https://github.com/yourusername/soc-automation">SOC Automation Project</a>|
@@ -52,7 +52,7 @@ My time at Augusta University has given me a robust foundation in Cybersecurity 
 </div>
 
 ## Projects
-- 🔐 <a href="https://github.com/yourusername/home-lab">Cybersecurity Home Lab</a> – Configured pfSense, VPN, Wireshark, and Active Directory.
+- 🔐 <a href="https://github.com/amircyberafzali/Cybersecurity-Home-Lab">Cybersecurity Home Lab</a> – Configured pfSense, VPN, Wireshark, and Active Directory.
 - ⚙️ <a href="https://github.com/yourusername/soc-automation">SOC Automation Project</a> – Python scripts to parse logs and detect threats.
 - 🛡️ <a href="https://github.com/yourusername/active-directory-lab">Active Directory Lab</a> – Blue/Red Team exercise with Metasploit and detection strategies.
 - 🧠 <a href="https://github.com/yourusername/ctf-writeups">CTF Writeups</a> – Solved challenges in cryptography, stego, and reverse engineering.
